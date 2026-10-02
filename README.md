@@ -82,4 +82,3 @@ samples/                 fictitious statement
 
 Alejandro Fernández Urbano — Power Platform & AI automation.
 Available for this kind of project as **Calidá S.A.S.** (Colombia).
-[LinkedIn](https://www.linkedin.com/in/alejandro-fernandez-urbano) · alejandrofernandezurbano@gmail.com
